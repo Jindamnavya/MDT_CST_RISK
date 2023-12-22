@@ -51,7 +51,7 @@ try {
                   title +=uniqueArray[p]
                   break;
                 }
-                title +=uniqueArray[p]+"-"; 
+                title +=uniqueArray[p]+"-";     // testing
              } 
                     
         }
